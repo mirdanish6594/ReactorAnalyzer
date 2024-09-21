@@ -14,5 +14,5 @@ def load_and_clean_data(filepath):
     return data
 
 if __name__ == "__main__":
-    data = load_and_clean_data('../data/reactor_performance.csv')
+    data = load_and_clean_data('data/reactor_performance.csv')
     print(data.head())
