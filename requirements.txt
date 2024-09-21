@@ -1,0 +1,12 @@
+
+---
+
+### **4. requirements.txt**
+
+List all the Python libraries required for the project.
+
+```txt
+pandas
+seaborn
+matplotlib
+streamlit
