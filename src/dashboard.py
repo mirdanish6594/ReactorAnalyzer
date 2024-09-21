@@ -12,7 +12,7 @@ from visualizations import (
 )
 
 # Load the reactor performance data
-data = load_and_clean_data('../data/reactor_performance.csv')
+data = load_and_clean_data('data/reactor_performance.csv')
 
 # Streamlit app title
 st.title("Reactor Performance Analysis Dashboard")
