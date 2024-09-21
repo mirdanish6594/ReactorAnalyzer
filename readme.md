@@ -1,4 +1,4 @@
-# ReactorInsight-Dashboard
+# ReactorAnalyzer-Dashboard
 
 ### A Data-Driven Reactor Performance Analysis Dashboard
 
@@ -6,7 +6,7 @@
 # Live: https://reactor-analyzer.streamlit.app
 ## Project Overview
 
-**ReactorInsight-Dashboard** is an interactive and dynamic dashboard designed to visualize the performance of different chemical reactors—Batch, Continuous Stirred Tank Reactor (CSTR), and Plug Flow Reactor (PFR)—under various operational conditions (temperature, pressure, catalyst loading, etc.). 
+**ReactorAnalyzer-Dashboard** is an interactive and dynamic dashboard designed to visualize the performance of different chemical reactors—Batch, Continuous Stirred Tank Reactor (CSTR), and Plug Flow Reactor (PFR)—under various operational conditions (temperature, pressure, catalyst loading, etc.). 
 
 The project leverages Python's powerful data analysis and visualization libraries to help chemical engineers and researchers quickly assess reactor performance, compare between reactor types, and draw meaningful conclusions. It also provides detailed statistical analysis and correlations between reactor parameters.
 
