@@ -2,15 +2,6 @@
 
 ### A Data-Driven Reactor Performance Analysis Dashboard
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-
 ---
 
 ## Project Overview
