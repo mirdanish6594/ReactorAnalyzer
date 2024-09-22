@@ -23,7 +23,7 @@ st.markdown("""
 # Sidebar for selecting reactor type
 reactor_type = st.sidebar.selectbox('Select Reactor Type', ['All', 'Batch', 'CSTR', 'PFR'])
 
-# Dynamic filter sliders for temperature and pressure
+# Filter sliders for temperature and pressure
 min_temp, max_temp = st.sidebar.slider("Select Temperature Range (°C)", int(data['Temperature (°C)'].min()), int(data['Temperature (°C)'].max()), (100, 150))
 min_pressure, max_pressure = st.sidebar.slider("Select Pressure Range (bar)", float(data['Pressure (bar)'].min()), float(data['Pressure (bar)'].max()), (1.0, 2.0))
 
